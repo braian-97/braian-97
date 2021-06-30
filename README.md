@@ -88,11 +88,19 @@ CSS Modules<br>
 
 ## Me podes contactar en:
 
- <img src="./logo/linkedIn.svg" href="https://www.linkedin.com/in/braian-silva-382b08209/" width="30" heigth="30"/>
- <address>
- <img src="./logo/gmail.svg"  href="braian.silva97@gmail.com" width="30" heigth="30"/><br>
+[[[./logo/linkedIn.svg|width=50px]]][1]
+
+[1]: https://www.linkedin.com/in/braian-silva-382b08209/
+
+
+
+[[./logo/linkedIn.svg]]("https://www.linkedin.com/in/braian-silva-382b08209/")
+
+<img src="./logo/gmail.svg" width="30" heigth="30"/> 
+<braian@silva97@gmail.com>
+
  braian.silva97@gmail.com
- </address>
+
 
 
 
