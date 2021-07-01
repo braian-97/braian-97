@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Mi proyecto:
 
-#### Este fue mi primer proyecto desde cero. 😄
+#### Este fue mi primer proyecto desde cero. ⚡
 
 ### API-Food
 
