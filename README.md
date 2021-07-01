@@ -19,39 +19,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Soy Full Stack Developer 💻
 
-## Lenguajes y herramientas: 💻
+## Lenguajes y herramientas: 
 <br>
 
-<div>
-  <img src="./logo/javascript.svg" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width="40" heigth="40"/>       
-  <img src="./logo/html.svg" href="https://www.w3.org/html/"/>
-  <img src="./logo/nodejs.svg" href="https://nodejs.org/"/>
-  <img src="./logo/react.svg" href="https://reactjs.org/"/>
-  <img src="./logo/redux.svg" href="https://es.redux.js.org/" width="40" heigth="40"/>
-  <img src="./logo/expressjs.svg"  href="https://expressjs.com/" width="40" heigth="40"/>
-  <img src="./logo/mocha.svg" href="https://mochajs.org/" width="40" heigth="40"/>
-  <img src="./logo/postgresSQL.svg" href="https://www.postgresql.org/"/>
-  <img src="./logo/sequelize.svg" href="https://sequelize.org/"/>
-  <img src="./logo/git.svg" href="https://git-scm.com/"/>
-</div>
+<table>
+<tr>
+
+<td>
+
+[<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+</td>
+<td>
+
+[<img src="./logo/html.svg" />](https://www.w3.org/html)
+</td>
+<td>
+
+[<img src="./logo/nodejs.svg" />](https://nodejs.org)
+</td>
+<td>
+
+[<img src="./logo/react.svg" />](https://reactjs.org)
+</td>
+<td>
+
+[<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)
+</td>
+<td>
+
+[<img src="./logo/expressjs.svg" width="150" heigth="150"/>](https://expressjs.com)
+</td>
+<td>
+
+[<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)
+</td>
+<td>
+
+[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)
+</td>
+<td>
+
+[<img src="./logo/sequelize.svg" />](https://sequelize.org)
+</td>
+<td>
+
+[<img src="./logo/git.svg" />](https://git-scm.com)
+</td>
+
+<tr>
+</table>
 
 <br>
 <hr>
 
 ## Mi proyecto:
 
-#### Este fui mi primer proyecto desde cero, espero que les guste 😄
+#### Este fue mi primer proyecto desde cero. 😄
 
 ### API-Food
-<div>
- <img src="./api-food-images/img_1.png" width="400" heigth="400"/>
- <img src="./api-food-images/img_2.png" width="400" heigth="400"/>
- <img src="./api-food-images/img_3.png" width="400" heigth="400"/>
- <img src="./api-food-images/img_4.png" width="400" heigth="400"/>
- <img src="./api-food-images/img_5.png" width="400" heigth="400"/>
-</div>
 
+<img src="./api-food-images/img_1.jpg" width="400" height="200" >
+<img src="./api-food-images/img_2.jpg" width="400" height="200" >
+<img src="./api-food-images/img_3.jpg" width="400" height="200" >
+<img src="./api-food-images/img_4.jpg" width="400" height="200" >
+<img src="./api-food-images/img_5.jpg" width="400" height="200" >
+<img src="./api-food-images/img_6.jpg" width="400" height="200" >
 
 ### Desarrollada con:
 |--| FrontEnd |--|
@@ -81,25 +115,27 @@ CSS Modules<br>
 </p>
 
 ### Datos traidos de Spoonacular:
-<img src="./img/spoonacular-logo.svg" href="https://spoonacular.com/food-api"/>
-
+[<img src="./img/spoonacular-logo.svg"/>](https://spoonacular.com/food-api)
 
 <hr>
 
 ## Me podes contactar en:
 
-[[[./logo/linkedIn.svg|width=50px]]][1]
+<table>
+<tr>
+<td>
 
-[1]: https://www.linkedin.com/in/braian-silva-382b08209/
+[<img src="./logo/linkedIn.svg" width="30" heigth="30"/>](https://www.linkedin.com/in/braian-silva-382b08209/)
+</td>
+<td>
 
+[<img src="./logo/gmail.svg" width="30" heigth="30"/>](mailto:braian.silva97@gmail.com)
+</td>
+<td>
+<tr>
+</table>
 
-
-[[./logo/linkedIn.svg]]("https://www.linkedin.com/in/braian-silva-382b08209/")
-
-<img src="./logo/gmail.svg" width="30" heigth="30"/> 
-<braian@silva97@gmail.com>
-
- braian.silva97@gmail.com
+<braian.silva97@gmail.com>
 
 
 
