@@ -24,54 +24,26 @@ Here are some ideas to get you started:
 ## Lenguajes y herramientas: 
 <br>
 
-<table>
-<tr>
-
-<td>
-
 [<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-</td>
-<td>
 
 [<img src="./logo/html.svg" />](https://www.w3.org/html)
-</td>
-<td>
 
 [<img src="./logo/nodejs.svg" />](https://nodejs.org)
-</td>
-<td>
 
 [<img src="./logo/react.svg" />](https://reactjs.org)
-</td>
-<td>
 
 [<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)
-</td>
-<td>
 
 [<img src="./logo/expressjs.svg" width="150" heigth="150"/>](https://expressjs.com)
-</td>
-<td>
 
 [<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)
-</td>
-<td>
 
 [<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)
-</td>
-<td>
 
 [<img src="./logo/sequelize.svg" />](https://sequelize.org)
-</td>
-<td>
 
 [<img src="./logo/git.svg" />](https://git-scm.com)
-</td>
 
-<tr>
-</table>
-
-<br>
 <hr>
 
 ## Mi proyecto:
@@ -81,10 +53,15 @@ Here are some ideas to get you started:
 ### API-Food
 
 <img src="./api-food-images/img_1.jpg" width="400" height="200" >
+
 <img src="./api-food-images/img_2.jpg" width="400" height="200" >
+
 <img src="./api-food-images/img_3.jpg" width="400" height="200" >
+
 <img src="./api-food-images/img_4.jpg" width="400" height="200" >
+
 <img src="./api-food-images/img_5.jpg" width="400" height="200" >
+
 <img src="./api-food-images/img_6.jpg" width="400" height="200" >
 
 ### Desarrollada con:
@@ -121,19 +98,10 @@ CSS Modules<br>
 
 ## Me podes contactar en:
 
-<table>
-<tr>
-<td>
-
 [<img src="./logo/linkedIn.svg" width="30" heigth="30"/>](https://www.linkedin.com/in/braian-silva-382b08209/)
-</td>
-<td>
 
 [<img src="./logo/gmail.svg" width="30" heigth="30"/>](mailto:braian.silva97@gmail.com)
-</td>
-<td>
-<tr>
-</table>
+
 
 <braian.silva97@gmail.com>
 
