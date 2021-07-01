@@ -23,26 +23,12 @@ Here are some ideas to get you started:
 
 ## Lenguajes y herramientas: 
 <br>
+<p float="left">
 
-[<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[<img src="./logo/html.svg" />](https://www.w3.org/html)
+[<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;[<img src="./logo/html.svg" />](https://www.w3.org/html)&nbsp;&nbsp;&nbsp;[<img src="./logo/nodejs.svg" />](https://nodejs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/react.svg" />](https://reactjs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/expressjs.svg" width="150" heigth="150"/>](https://expressjs.com)&nbsp;&nbsp;&nbsp;[<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/git.svg" />](https://git-scm.com)
 
-[<img src="./logo/nodejs.svg" />](https://nodejs.org)
-
-[<img src="./logo/react.svg" />](https://reactjs.org)
-
-[<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)
-
-[<img src="./logo/expressjs.svg" width="150" heigth="150"/>](https://expressjs.com)
-
-[<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)
-
-[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)
-
-[<img src="./logo/sequelize.svg" />](https://sequelize.org)
-
-[<img src="./logo/git.svg" />](https://git-scm.com)
+</p>
 
 <hr>
 
@@ -52,17 +38,15 @@ Here are some ideas to get you started:
 
 ### API-Food
 
+<p float="left">
 <img src="./api-food-images/img_1.jpg" width="400" height="200" >
-
 <img src="./api-food-images/img_2.jpg" width="400" height="200" >
-
 <img src="./api-food-images/img_3.jpg" width="400" height="200" >
-
 <img src="./api-food-images/img_4.jpg" width="400" height="200" >
-
 <img src="./api-food-images/img_5.jpg" width="400" height="200" >
-
 <img src="./api-food-images/img_6.jpg" width="400" height="200" >
+</p>
+
 
 ### Desarrollada con:
 |--| FrontEnd |--|
