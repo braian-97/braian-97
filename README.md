@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 
 ### Desarrollada con:
-|--| FrontEnd |--|
+- FrontEnd 
 <p>
 React<br>
 Redux
 </p>
 
-|--| BackEnd |--|
+- BackEnd
 <p>
 NodeJs<br>
 Express<br>
@@ -63,14 +63,14 @@ Sequelize<br>
 PostgresSQL
 </p>
 
-|--| Testing |--|
+- Testing 
 <p>
 Mocha<br>
 Chai<br>
 Enzyme
 </p>
 
-|--| CSS |--|
+- CSS 
 <p>
 CSS Modules<br>
 </p>
