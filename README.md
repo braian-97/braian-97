@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p float="left">
 
 
-[<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;[<img src="./logo/html.svg" />](https://www.w3.org/html)&nbsp;&nbsp;&nbsp;[<img src="./logo/nodejs.svg" />](https://nodejs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/react.svg" />](https://reactjs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/expressjs.svg" width="150" heigth="150"/>](https://expressjs.com)&nbsp;&nbsp;&nbsp;[<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;&nbsp;[<img src="./logo/git.svg" />](https://git-scm.com)
+[<img src="./logo/javascript.svg" width="50" heigth="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;[<img src="./logo/html.svg" />](https://www.w3.org/html)&nbsp;&nbsp;[<img src="./logo/nodejs.svg" />](https://nodejs.org)&nbsp;&nbsp;[<img src="./logo/react.svg" />](https://reactjs.org)&nbsp;&nbsp;[<img src="./logo/redux.svg" width="50" heigth="50"/>](https://es.redux.js.org)&nbsp;&nbsp;[<img src="./logo/expressjs.svg" width="100" heigth="100"/>](https://expressjs.com)&nbsp;&nbsp;[<img src="./logo/mocha.svg" width="50" heigth="50"/>](https://mochajs.org)&nbsp;&nbsp;[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)&nbsp;&nbsp;;[<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;[<img src="./logo/git.svg" />](https://git-scm.com)
 
 </p>
 
