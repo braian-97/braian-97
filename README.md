@@ -1,5 +1,3 @@
-# Hola! soy Braian👋 
-
 <p align="center">
   <img src="./img/banner.jpg" />
 </p>
@@ -19,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola! soy Braian👋 
+
 # Soy Full Stack Developer 💻
 
 ## Lenguajes y herramientas: 
