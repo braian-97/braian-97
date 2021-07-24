@@ -1,6 +1,9 @@
-# Hola! soy Braian👋 
+
 
 <p align="center">
+
+  # Hola! soy Braian👋 
+
   <img src="./img/banner.jpg" />
 </p>
 <hr>
@@ -23,12 +26,19 @@ Here are some ideas to get you started:
 
 ## Lenguajes y herramientas: 
 <br>
-<p float="left">
 
+[<img src="./logo/javascript.svg" width="40" heigth="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="./logo/TypeScript.svg" width="40" heigth="40"/>](https://www.typescriptlang.org/) &nbsp;&nbsp;
+[<img src="./logo/html.svg" />](https://www.w3.org/html)&nbsp;&nbsp;
+[<img src="./logo/bootstrap-2.svg" />](https://getbootstrap.com/) &nbsp;&nbsp;
+[<img src="./logo/nodejs.svg" />](https://nodejs.org)&nbsp;&nbsp;[<img src="./logo/react.svg" />](https://reactjs.org)&nbsp;&nbsp;
+[<img src="./logo/redux.svg" width="40" heigth="40"/>](https://es.redux.js.org)&nbsp;&nbsp;
+[<img src="./logo/expressjs.svg" width="100" heigth="100" style="backgroup-color= white"/>](https://expressjs.com)&nbsp;&nbsp;
+[<img src="./logo/mocha.svg" width="40" heigth="40"/>](https://mochajs.org)&nbsp;&nbsp;
+[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)&nbsp;&nbsp;
+[<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;
+[<img src="./logo/git.svg" />](https://git-scm.com) 
 
-[<img src="./logo/javascript.svg" width="40" heigth="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;[<img src="./logo/html.svg" />](https://www.w3.org/html)&nbsp;&nbsp;[<img src="./logo/nodejs.svg" />](https://nodejs.org)&nbsp;&nbsp;[<img src="./logo/react.svg" />](https://reactjs.org)&nbsp;&nbsp;[<img src="./logo/redux.svg" width="40" heigth="40"/>](https://es.redux.js.org)&nbsp;&nbsp;[<img src="./logo/expressjs.svg" width="100" heigth="100"/>](https://expressjs.com)&nbsp;&nbsp;[<img src="./logo/mocha.svg" width="40" heigth="40"/>](https://mochajs.org)&nbsp;&nbsp;[<img src="./logo/postgresSQL.svg" />](https://www.postgresql.org)&nbsp;&nbsp;[<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;[<img src="./logo/git.svg" />](https://git-scm.com)
-
-</p>
 
 <hr>
 
