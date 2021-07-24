@@ -1,5 +1,3 @@
-
-
 <p align="center">
 
   # Hola! soy Braian👋 
@@ -22,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Soy Full Stack Developer 💻
 
 ## Lenguajes y herramientas: 
