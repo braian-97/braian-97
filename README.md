@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-## Mi proyecto:
+## Mis proyectos:
 
 #### Este fue mi primer proyecto desde cero. ⚡
 
@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 
 
 ### Desarrollada con:
-- FrontEnd 
+- FrontEnd: 
 <p>
 React<br>
 Redux
 </p>
 
-- BackEnd
+- BackEnd:
 <p>
 NodeJs<br>
 Express<br>
@@ -72,20 +72,68 @@ Sequelize<br>
 PostgresSQL
 </p>
 
-- Testing 
+- Testing: 
 <p>
 Mocha<br>
 Chai<br>
 Enzyme
 </p>
 
-- CSS 
+- CSS: 
 <p>
 CSS Modules<br>
 </p>
 
 ### Datos traidos de Spoonacular:
 [<img src="./img/spoonacular-logo.svg"/>](https://spoonacular.com/food-api)
+
+<hr>
+
+
+
+## Proyecto Grupal para Henry. 👯
+
+### E-Commercer
+
+<p float="left">
+<img src="./pf-e-commer-images/Home.png" width="400" height="200" >
+<img src="./pf-e-commer-images/Listado.png" width="400" height="200" >
+<img src="./pf-e-commer-images/Details.png" width="400" height="200" >
+<img src="./pf-e-commer-images/Cesta.png" width="400" height="200" >
+<img src="./pf-e-commer-images/Calendar.png" width="400" height="200" >
+<img src="./pf-e-commer-images/Chat.png" width="400" height="200" >
+</p>
+
+
+### Desarrollada con:
+
+- Aplicación:
+<p>Creada usando TypeScript y Javascript </p>
+
+- FrontEnd:
+<p>
+React<br>
+Redux<br>
+Firebase
+</p>
+
+- BackEnd:
+<p>
+NodeJs<br>
+Express<br>
+Sequelize<br>
+PostgresSQL<br>
+Jsonwebtoken<br>
+Localstorage
+</p>
+
+- CSS: 
+<p>
+Bootstrap<br>
+CSS Modules<br>
+</p>
+
+
 
 <hr>
 
