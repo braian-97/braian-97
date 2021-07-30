@@ -93,7 +93,7 @@ CSS Modules<br>
 
 ## Proyecto Grupal para Henry. 👯
 
-### E-Commercer
+### E-Commerce
 
 <p float="left">
 <img src="./pf-e-commer-images/Home.png" width="400" height="200" >
