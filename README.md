@@ -2,7 +2,7 @@
 
   # Hola! soy Braian👋 
 
-  <img src="./img/banner.jpg" width="400" heigth="400"/>
+  <img src="./img/banner.jpg" width="" heigth=""/>
 </p>
 <hr>
 
