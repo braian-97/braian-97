@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Soy Full Stack Developer 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braian-97&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braian-97)](https://github.com/braian-97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braian-97&layout=compact)](https://github.com/braian-97/github-readme-stats)
 
 ## Lenguajes y herramientas: 
 <br>
