@@ -2,7 +2,7 @@
 
   # Hola! soy Braian👋 
 
-  <img src="./img/banner.jpg" />
+  <img src="./img/banner.jpg" width="400" heigth="400"/>
 </p>
 <hr>
 
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 -->
 
 # Soy Full Stack Developer 💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braian-97&show_icons=true&theme=radical)
 
 ## Lenguajes y herramientas: 
 <br>
