@@ -44,56 +44,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-## Mis proyectos:
-
-#### Este fue mi primer proyecto desde cero. ⚡
-
-### API-Food
-
-<p float="left">
-<img src="./api-food-images/img_1.jpg" width="400" height="200" >
-<img src="./api-food-images/img_2.jpg" width="400" height="200" >
-<img src="./api-food-images/img_3.jpg" width="400" height="200" >
-<img src="./api-food-images/img_4.jpg" width="400" height="200" >
-<img src="./api-food-images/img_5.jpg" width="400" height="200" >
-<img src="./api-food-images/img_6.jpg" width="400" height="200" >
-</p>
-
-
-### Desarrollada con:
-- FrontEnd: 
-<p>
-React<br>
-Redux
-</p>
-
-- BackEnd:
-<p>
-NodeJs<br>
-Express<br>
-Sequelize<br>
-PostgresSQL
-</p>
-
-- Testing: 
-<p>
-Mocha<br>
-Chai<br>
-Enzyme
-</p>
-
-- CSS: 
-<p>
-CSS Modules<br>
-</p>
-
-### Datos traidos de Spoonacular:
-[<img src="./img/spoonacular-logo.svg"/>](https://spoonacular.com/food-api)
-
-<hr>
-
-
-
 ## Proyecto Grupal para Henry. 👯
 
 ### E-Commerce
