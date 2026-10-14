@@ -41,53 +41,6 @@ Here are some ideas to get you started:
 [<img src="./logo/sequelize.svg" />](https://sequelize.org)&nbsp;&nbsp;
 [<img src="./logo/git.svg" />](https://git-scm.com) 
 
-
-<hr>
-
-## Proyecto Grupal para Henry. 👯
-
-### E-Commerce
-
-<p float="left">
-<img src="./pf-e-commer-images/Home.png" width="400" height="200" >
-<img src="./pf-e-commer-images/Listado.png" width="400" height="200" >
-<img src="./pf-e-commer-images/Details.png" width="400" height="200" >
-<img src="./pf-e-commer-images/Cesta.png" width="400" height="200" >
-<img src="./pf-e-commer-images/Calendar.png" width="400" height="200" >
-<img src="./pf-e-commer-images/Chat.png" width="400" height="200" >
-</p>
-
-
-### Desarrollada con:
-
-- Aplicación:
-<p>Creada usando TypeScript y Javascript </p>
-
-- FrontEnd:
-<p>
-React<br>
-Redux<br>
-Firebase
-</p>
-
-- BackEnd:
-<p>
-NodeJs<br>
-Express<br>
-Sequelize<br>
-PostgresSQL<br>
-Jsonwebtoken<br>
-Localstorage
-</p>
-
-- CSS: 
-<p>
-Bootstrap<br>
-CSS Modules<br>
-</p>
-
-
-
 <hr>
 
 ## Me podes contactar en:
